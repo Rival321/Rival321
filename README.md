@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rival321
 - 👀 I’m interested in Java,Frontend for Web/App development.
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently Studying Computer Science
+- 💞️ I’m looking forward to collaborate on web and app development as well as AI...
 - 📫 How to reach me chilwalopaul@gmail.com
 
 <!---
